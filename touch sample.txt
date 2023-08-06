@@ -1,0 +1,10 @@
+// gitsampleと言うディレクトリを作成
+$ mkdir gitsample
+// gitsampleディレクトリへ移動
+$ cd gitsample
+// リポジトリを作成
+$ git init
+git add .
+$ git commit -m "コミットメッセージ"
+$ git commit -m "first commit"
+'git remote add origin...'
